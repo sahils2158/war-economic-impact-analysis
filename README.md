@@ -1,5 +1,8 @@
 # Economic Impact of War – Data Analysis & Power BI Dashboard
 
+<img width="598" height="498" alt="image" src="https://github.com/user-attachments/assets/3c80dc87-14cb-40f1-93cf-1e46fba0b624" />
+
+
 ## Overview
 
 This project analyzes the economic and social impact of armed conflicts using a dataset containing economic indicators such as GDP change, inflation, unemployment, poverty levels, currency devaluation, and reconstruction costs.
@@ -49,6 +52,15 @@ The Power BI dashboard includes:
 * `dashboard_preview.png` – dashboard screenshot
 
 ---
+
+## Skills Demonstrated
+
+- Data Cleaning and Feature Engineering (Python, Pandas)
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Power BI Dashboard Development
+- Business Intelligence Reporting
+- Data Storytelling
 
 ## Goal
 
